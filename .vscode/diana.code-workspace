@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"volar.icon.splitEditors": true,
+		"volar.autoCompleteRefs": true,
+		"volar.splitEditors.layout.left": [
+			"template",
+			"styles"
+		],
+		"volar.splitEditors.layout.right": [
+			"script",
+			"scriptSetup",
+		]
+	}
+}
